@@ -16,7 +16,7 @@
                 </c:when>
                 <c:otherwise>
                     <li><sp:message code='footer.yesSparql' text='data from:'/> <a
-                            href="${conf.getEndPointUrl()}">https://schema.gov.it/sparql</a></li>
+                            href="${conf.getEndPointUrl()}">https://dati.isprambiente.it/sparql</a></li>
                 </c:otherwise>
             </c:choose>
             <!--<li><a target="_blank" href="${lodliveUrl}"><sp:message code='footer.viewLodlive'
